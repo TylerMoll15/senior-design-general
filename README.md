@@ -4,8 +4,11 @@
 ### Team Members
 
 Tony Weigand tweigand1994 anwe1890@colorado.edu
+
 Luke Soderquist lsoderquist luso2589@colorado.edu
+
 Neil Patel Absent847 nepa2887@colorado.edu 
+
 Tyler Moll TylerMoll15 tymo4210@colorado.edu
 
 Project Title  -  
